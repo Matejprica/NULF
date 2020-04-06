@@ -1,0 +1,11 @@
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\bin\Debug\Nineinchers BL farmer.exe.config
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\bin\Debug\Nineinchers BL farmer.exe
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\bin\Debug\Nineinchers BL farmer.pdb
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers BL farmer.csprojAssemblyReference.cache
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers_BL_farmer.Form1.resources
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers_BL_farmer.Properties.Resources.resources
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers BL farmer.csproj.GenerateResource.cache
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers BL farmer.csproj.CoreCompileInputs.cache
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers BL farmer.exe
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers BL farmer.pdb
+D:\_Programi\Nineinchers_BL_farmer\Nineinchers BL farmer\obj\Debug\Nineinchers_BL_farmer.Form2.resources
